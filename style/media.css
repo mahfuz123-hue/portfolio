@@ -1,0 +1,72 @@
+@media(max-width:575px){
+    .header{
+        position: static !important;
+    }
+    .logo{
+        display: flex;
+        justify-content: center;
+        margin-bottom: 10px;
+    }
+    .home{
+       background-image: none !important;
+       margin-top: 30px !important;
+       text-align: center;
+       padding-bottom:0 !important;
+    }
+    .navbar-toggler{
+        color: #fff;
+        margin-right: 20px;
+    }
+    .btn_box{
+        margin-left: 60px;
+    }
+    .socail_icon {
+        padding-top: 75px !important;
+        margin-bottom: 0px;
+    }
+    .heading{
+        padding-top: 20px;
+    }
+    .circle_spin{
+        width: 35% !important;
+    }
+    .btn_box{
+        margin-right: 50px;
+        margin-bottom: 30px !important;
+    }
+    .navbar {
+        margin-top: 25px;
+    }
+    .navbar i {
+        color: #fff;
+        font-size: 30px;
+    }
+    .navbar-toggler:focus{
+        box-shadow: none;
+    }
+    .navbar-nav{
+        text-align: center;
+    }
+    .skill_part h1{
+        margin-top: 30px;
+    }
+    .box_menu ul li{
+        font-size: 10px !important;
+    }
+    .box-item{
+        text-align: center;
+    }
+    .navbar-brand{
+        margin-left: 20px;
+    }
+    .img_home{
+        display: none;
+    }
+
+    progress_part{
+        margin: 10px;
+    }
+    .skill_part h1{
+        margin-left: 10px;
+    }
+}
